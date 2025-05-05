@@ -1,0 +1,8 @@
+dependencies:
+  - scikit-learn
+  - pandas
+  - pip
+  - pip:
+      - sagemaker-inference
+      - sagemaker-training
+      
